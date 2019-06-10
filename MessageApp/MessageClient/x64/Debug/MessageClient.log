@@ -1,0 +1,3 @@
+﻿  MessageClient.c
+c:\users\skiry\documents\faculty\bitdefenderc\!project2\messageapp\messageclient\messageclient.c(492): error C2220: warning treated as error - no 'object' file generated
+c:\users\skiry\documents\faculty\bitdefenderc\!project2\messageapp\messageclient\messageclient.c(492): warning C4267: 'function': conversion from 'size_t' to 'CM_SIZE', possible loss of data

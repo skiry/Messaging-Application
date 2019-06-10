@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MessageClient",
+    "\\MessageCommunicationLib",
+    "\\MessageServer"
+  ],
+  "SelectedNode": "\\MessageServer\\MessageServer.c",
+  "PreviewInSolutionExplorer": false
+}

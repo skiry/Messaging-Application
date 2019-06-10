@@ -1,0 +1,9 @@
+﻿  stdafx.c
+  client_communication_api.c
+  communication_api.c
+  communication_data.c
+  communication_logging.c
+  connection.c
+  server_communication_api.c
+  Generating Code...
+  MessageCommunicationLib.vcxproj -> C:\Users\Skiry\Documents\Faculty\BitDefenderC\!Project2\MessageApp\bin\Win32\Debug\MessageCommunicationLib.lib

@@ -1,0 +1,14 @@
+﻿  CCHashTable.c
+  MessageServer.c
+c:\users\skiry\documents\faculty\bitdefenderc\!project2\messageapp\messageserver\messageserver.c(335): error C2220: warning treated as error - no 'object' file generated
+c:\users\skiry\documents\faculty\bitdefenderc\!project2\messageapp\messageserver\messageserver.c(335): warning C4267: 'function': conversion from 'size_t' to 'DWORD', possible loss of data
+c:\users\skiry\documents\faculty\bitdefenderc\!project2\messageapp\messageserver\messageserver.c(549): warning C4267: 'function': conversion from 'size_t' to 'CM_SIZE', possible loss of data
+c:\users\skiry\documents\faculty\bitdefenderc\!project2\messageapp\messageserver\messageserver.c(700): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\skiry\documents\faculty\bitdefenderc\!project2\messageapp\messageserver\messageserver.c(1022): warning C4267: 'function': conversion from 'size_t' to 'DWORD', possible loss of data
+c:\users\skiry\documents\faculty\bitdefenderc\!project2\messageapp\messageserver\messageserver.c(1113): warning C4267: 'function': conversion from 'size_t' to 'DWORD', possible loss of data
+c:\users\skiry\documents\faculty\bitdefenderc\!project2\messageapp\messageserver\messageserver.c(1205): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\skiry\documents\faculty\bitdefenderc\!project2\messageapp\messageserver\messageserver.c(1354): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\skiry\documents\faculty\bitdefenderc\!project2\messageapp\messageserver\messageserver.c(1428): warning C4267: 'function': conversion from 'size_t' to 'DWORD', possible loss of data
+c:\users\skiry\documents\faculty\bitdefenderc\!project2\messageapp\messageserver\messageserver.c(1587): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\skiry\documents\faculty\bitdefenderc\!project2\messageapp\messageserver\messageserver.c(1633): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...

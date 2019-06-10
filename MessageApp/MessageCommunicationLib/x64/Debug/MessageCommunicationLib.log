@@ -1,0 +1,6 @@
+﻿  client_communication_api.c
+  communication_api.c
+  communication_data.c
+  connection.c
+  Generating Code...
+  MessageCommunicationLib.vcxproj -> C:\Users\Skiry\Documents\Faculty\BitDefenderC\!Project2\MessageApp\bin\x64\Debug\MessageCommunicationLib.lib
